@@ -1,5 +1,12 @@
 
 ******************** OR FrameWork in C++ *********************************
+
+
+
+
+
+
+
 Before using this framework you have to installed MySql
 
 and c++ connectivity with Mysql.
